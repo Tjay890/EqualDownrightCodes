@@ -1,2 +1,2 @@
-sjaak = input('Hoe jij heten?')
-print("Hallo ", sjaak)
+peter = input('Hoe jij heten?')
+print("Hallo ", peter)
