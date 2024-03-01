@@ -1,1 +1,2 @@
-print("Hallo, wereld!")
+henk = input('Hoe jij heten?')
+print("Hallo ", henk)
