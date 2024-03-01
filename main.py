@@ -1,3 +1,3 @@
 
-opa = input('Hoe jij heten?')
-print("Hallo ", opa)
+poep = input('Hoe jij heten?')
+print("Hallo ", poep)
