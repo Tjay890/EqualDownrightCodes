@@ -1,2 +1,2 @@
-henk = input('Hoe jij heten?')
-print("Hallo ", henk)
+opa = input('Hoe jij heten?')
+print("Hallo ", opa)
